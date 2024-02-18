@@ -1,1 +1,2 @@
-# Unity5
+For some game design tools I first used constraint. The main constraint is noticed in how small the arena is, and within that small arena is boxes that take up a decent amount of space that you have to work around as the player.
+The second game design tool I used was strategy. If a player was forced into a corner with boxes in the way there could be a forcing way to jump over that player if played correctly, so the other player has to maneuver to not get themselves in that situation in the first place. 
